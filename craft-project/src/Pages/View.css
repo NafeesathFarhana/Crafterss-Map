@@ -1,0 +1,15 @@
+.shrink img {
+    transition: 1s ease;
+    }
+    
+    .shrink img:hover{
+    -webkit-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    transform: scale(0.8);
+    transition: 1s ease;
+    }
+    .boo{
+        background-image: url('https://i.pinimg.com/736x/59/c5/18/59c5180e9b87a0ee702e19865b082eb1.jpg');
+        background-size: cover;
+        height: 1100px;
+    }

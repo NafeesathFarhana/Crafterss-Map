@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Jost&family=M+PLUS+Rounded+1c&family=Tajawal&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Cormorant+Garamond:wght@600&family=Dancing+Script&family=EB+Garamond&family=Great+Vibes&family=Jost&family=M+PLUS+Rounded+1c&family=Nunito&family=Tajawal&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Cormorant+Garamond:wght@600&family=Dancing+Script&family=EB+Garamond&family=Great+Vibes&family=Jost&family=M+PLUS+Rounded+1c&family=Nunito&family=Sacramento&family=Tajawal&display=swap');
+
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Tajawal', sans-serif;
+}
